@@ -1,0 +1,6 @@
+{
+  "name": "Chatmocker.net - Fake Social Media Chat Generator",
+  "description": "Create authentic, high-resolution fake chat screenshots for WhatsApp, Instagram, TikTok, Messenger, and SMS with real-time preview, dark mode, and PDF/image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
